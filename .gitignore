@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Environment
+.venv/
+env/
+venv/
+
+# System/User folders
+.cache/
+.config/
+.docker/
+.gsutil/
+.jupyter/
+.local/
+.npm/
+.ipython/
+.bashrc
+.gitconfig
+
+# Logs
+*.log
+*.tmp
+*.swp
+
+# DVC
+data/
+!data/*.dvc
+
+# MLflow
+mlruns/
+
+# Artifacts
+artifacts/
+
