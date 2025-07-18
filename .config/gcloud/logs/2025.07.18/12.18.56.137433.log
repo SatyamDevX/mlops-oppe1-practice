@@ -1,0 +1,10 @@
+2025-07-18 12:18:56,161 DEBUG    root            Loaded Command Group: ['gcloud', 'projects']
+2025-07-18 12:18:56,167 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'describe']
+2025-07-18 12:18:56,169 DEBUG    root            Running [gcloud.projects.describe] with arguments: [--format: "value(projectNumber)", PROJECT_ID_OR_NUMBER: "amiable-dreamer-461212-u2"]
+2025-07-18 12:18:56,217 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2025-07-18 12:18:56,241 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/amiable-dreamer-461212-u2?alt=json HTTP/11" 200 None
+2025-07-18 12:18:56,242 DEBUG    root            Chosen display Format:default value(projectNumber)
+2025-07-18 12:18:56,243 INFO     root            Display format: "default value(projectNumber)"
+2025-07-18 12:18:56,260 INFO     ___FILE_ONLY___ 414391378798
+
+2025-07-18 12:18:56,261 DEBUG    root            SDK update checks are disabled.
