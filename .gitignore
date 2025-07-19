@@ -42,3 +42,4 @@ artifacts/
 .bash_history
 /data
 /artifacts
+.dvc/config
