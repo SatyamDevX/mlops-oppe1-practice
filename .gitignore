@@ -39,3 +39,4 @@ mlruns/
 # Artifacts
 artifacts/
 
+.bash_history
