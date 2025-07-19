@@ -40,3 +40,5 @@ mlruns/
 artifacts/
 
 .bash_history
+/data
+/artifacts
