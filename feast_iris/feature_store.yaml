@@ -1,0 +1,15 @@
+project: iris_project
+registry: gs://amiable-dreamer-461212-u2-iris-feast/registry.db  # Replace with your actual GCS bucket
+provider: gcp
+
+offline_store:
+  type: bigquery
+  dataset: feast_iris_dataset  # This dataset should exist in your BigQuery project
+
+# Optional - remove or comment out if you're not using Redis now
+# online_store:
+#   type: redis
+#   connection_string: "localhost:6379"
+
+entity_key_serialization_version: 3
+

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1752847065,,"wq"
+|2,0,1752974699,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,270 @@
 # Registers:
 
 # File marks:
-'0  41  0  ~/.gitignore
-|4,48,41,0,1752847065,"~/.gitignore"
+'0  15  10  ~/feast_iris/feature_view.py
+|4,48,15,10,1752974699,"~/feast_iris/feature_view.py"
+'1  2  68  ~/feast_iris/feature_view.py
+|4,49,2,68,1752974609,"~/feast_iris/feature_view.py"
+'2  2  68  ~/feast_iris/feature_view.py
+|4,50,2,68,1752974609,"~/feast_iris/feature_view.py"
+'3  2  57  ~/feast_iris/feature_view.py
+|4,51,2,57,1752974442,"~/feast_iris/feature_view.py"
+'4  2  57  ~/feast_iris/feature_view.py
+|4,52,2,57,1752974442,"~/feast_iris/feature_view.py"
+'5  20  19  ~/feast_iris/feature_view.py
+|4,53,20,19,1752974303,"~/feast_iris/feature_view.py"
+'6  20  19  ~/feast_iris/feature_view.py
+|4,54,20,19,1752974303,"~/feast_iris/feature_view.py"
+'7  19  19  ~/feast_iris/feature_view.py
+|4,55,19,19,1752974303,"~/feast_iris/feature_view.py"
+'8  19  19  ~/feast_iris/feature_view.py
+|4,56,19,19,1752974303,"~/feast_iris/feature_view.py"
+'9  20  19  ~/feast_iris/feature_view.py
+|4,57,20,19,1752974303,"~/feast_iris/feature_view.py"
 
 # Jumplist (newest first):
--'  41  0  ~/.gitignore
-|4,39,41,0,1752847065,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1752847049,"~/.gitignore"
+-'  15  10  ~/feast_iris/feature_view.py
+|4,39,15,10,1752974699,"~/feast_iris/feature_view.py"
+-'  2  68  ~/feast_iris/feature_view.py
+|4,39,2,68,1752974664,"~/feast_iris/feature_view.py"
+-'  2  68  ~/feast_iris/feature_view.py
+|4,39,2,68,1752974609,"~/feast_iris/feature_view.py"
+-'  2  57  ~/feast_iris/feature_view.py
+|4,39,2,57,1752974442,"~/feast_iris/feature_view.py"
+-'  20  19  ~/feast_iris/feature_view.py
+|4,39,20,19,1752974363,"~/feast_iris/feature_view.py"
+-'  19  19  ~/feast_iris/feature_view.py
+|4,39,19,19,1752974363,"~/feast_iris/feature_view.py"
+-'  20  19  ~/feast_iris/feature_view.py
+|4,39,20,19,1752974363,"~/feast_iris/feature_view.py"
+-'  19  19  ~/feast_iris/feature_view.py
+|4,39,19,19,1752974363,"~/feast_iris/feature_view.py"
+-'  19  19  ~/feast_iris/feature_view.py
+|4,39,19,19,1752974303,"~/feast_iris/feature_view.py"
+-'  32  0  ~/feast_iris/feature_view.py
+|4,39,32,0,1752974270,"~/feast_iris/feature_view.py"
+-'  31  0  ~/feast_iris/feature_view.py
+|4,39,31,0,1752974270,"~/feast_iris/feature_view.py"
+-'  32  0  ~/feast_iris/feature_view.py
+|4,39,32,0,1752974270,"~/feast_iris/feature_view.py"
+-'  31  0  ~/feast_iris/feature_view.py
+|4,39,31,0,1752974270,"~/feast_iris/feature_view.py"
+-'  31  0  ~/feast_iris/feature_view.py
+|4,39,31,0,1752974270,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  1  0  ~/feast_iris/feature_
+|4,39,1,0,1752974255,"~/feast_iris/feature_"
+-'  31  0  ~/feast_iris/feature_view.py
+|4,39,31,0,1752974130,"~/feast_iris/feature_view.py"
+-'  31  0  ~/feast_iris/feature_view.py
+|4,39,31,0,1752974130,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_view.py
+|4,39,1,0,1752974116,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_view.py
+|4,39,1,0,1752974116,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_view.py
+|4,39,1,0,1752974116,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_view.py
+|4,39,1,0,1752974116,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_view.py
+|4,39,1,0,1752974116,"~/feast_iris/feature_view.py"
+-'  1  0  ~/feast_iris/feature_view.py
+|4,39,1,0,1752974116,"~/feast_iris/feature_view.py"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
+-'  15  0  ~/feast_iris/feature_store.yaml
+|4,39,15,0,1752973886,"~/feast_iris/feature_store.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/feast_iris/feature_view.py
+	*	1752974697	0
+	"	15	10
+	^	15	11
+	.	15	10
+	+	31	1
+	+	20	19
+	+	1	0
+	+	2	57
+	+	14	9
+	+	9	31
+	+	2	68
+	+	15	10
+
+> ~/feast_iris/feature_
+	*	1752974252	0
+	"	1	0
+
+> ~/feast_iris/feature_store.yaml
+	*	1752973878	0
+	"	15	0
+	^	15	0
+	.	14	35
+	+	14	35
+
+> ~/iris_predictor.py
+	*	1752973634	0
+	"	47	0
+	^	47	0
+	.	46	27
+	+	46	27
+
+> ~/tests/test.py
+	*	1752973305	0
+	"	21	0
+	^	21	0
+	.	20	63
+	+	1	13
+	+	20	63
 
 > ~/.gitignore
 	*	1752847062	0
